@@ -1,0 +1,196 @@
+Project uid,Accession,NCBI name,Genome size (bp),Host,EzbioCloud name,Strain name,Strain type,Project status,Assembly type
+112,GCA_000007865.1,Mycobacterium avium subsp. paratuberculosis K-10,4829781,Bovine Johne`s disease,Mycobacterium avium subsp. paratuberculosis,K-10,NOT_TYPE,NORMAL,COMPLETE
+425,GCA_000014985.1,Mycobacterium avium 104,5475491,Unknown,Mycobacterium avium subsp. avium,104,NOT_TYPE,NORMAL,COMPLETE
+2974,GCA_000216015.2,Mycobacterium avium subsp. paratuberculosis CLIJ623,4523318,Bos taurus(gut necropsy from a cow with clinical B,Mycobacterium avium subsp. paratuberculosis,CLIJ623,NOT_TYPE,NORMAL,CONTIG
+3211,GCA_000215815.2,Mycobacterium avium subsp. paratuberculosis CLIJ644,4707985,Bos taurus(gut necropsy from a cow with clinical B,Mycobacterium avium subsp. paratuberculosis,CLIJ644,NOT_TYPE,NORMAL,CONTIG
+3290,GCA_000218035.2,Mycobacterium avium subsp. paratuberculosis Pt139,4647327,Clinical(gut biopsy from patient with early onset ,Mycobacterium avium subsp. paratuberculosis,Pt139,NOT_TYPE,NORMAL,CONTIG
+3305,GCA_000218055.2,Mycobacterium avium subsp. paratuberculosis Pt144,4582918,Clinical(gut biopsy from patient with early onset ,Mycobacterium avium subsp. paratuberculosis,Pt144,NOT_TYPE,NORMAL,CONTIG
+3329,GCA_000218075.2,Mycobacterium avium subsp. paratuberculosis Pt145,4568858,Clinical(gut biopsy from patient with early onset ,Mycobacterium avium subsp. paratuberculosis,Pt145,NOT_TYPE,NORMAL,CONTIG
+3350,GCA_000218095.2,Mycobacterium avium subsp. paratuberculosis Pt146,4582551,Clinical(gut biopsy from patient with early onset ,Mycobacterium avium subsp. paratuberculosis,Pt146,NOT_TYPE,NORMAL,CONTIG
+3363,GCA_000390085.1,Mycobacterium avium subsp. paratuberculosis MAP4,4829424,Clinical(the breast milk of a Crohn¡¯s disease pati,Mycobacterium avium subsp. paratuberculosis,MAP4,NOT_TYPE,NORMAL,COMPLETE
+3399,GCA_000218135.2,Mycobacterium avium subsp. paratuberculosis Pt155,4560778,Clinical9gut biopsy from patient with spirochaetos,Mycobacterium avium subsp. paratuberculosis,Pt155,NOT_TYPE,NORMAL,CONTIG
+3423,GCA_000218155.2,Mycobacterium avium subsp. paratuberculosis Pt164,4669710,Clinical(gut biopsy from patient with ulcerative c,Mycobacterium avium subsp. paratuberculosis,Pt164,NOT_TYPE,NORMAL,CONTIG
+3861,GCA_000240425.2,Mycobacterium avium subsp. paratuberculosis 4B,4738595,Clinical(liem),Mycobacterium avium subsp. paratuberculosis,4B,NOT_TYPE,NORMAL,CONTIG
+3888,GCA_000240445.2,Mycobacterium avium subsp. paratuberculosis DT 3,4725169,British red deer(feces),Mycobacterium avium subsp. paratuberculosis,DT 3,NOT_TYPE,NORMAL,CONTIG
+3908,GCA_000240465.2,Mycobacterium avium subsp. paratuberculosis Env 210,4736143,Soil and untensils(from a dairy farm),Mycobacterium avium subsp. paratuberculosis,Env 210,NOT_TYPE,NORMAL,CONTIG
+6827,GCA_000696715.1,Mycobacterium avium subsp. hominissuis A5,4870506,Clinical(blood),Mycobacterium avium subsp. paratuberculosis,A5,NOT_TYPE,NORMAL,CONTIG
+6833,GCA_000696735.1,Mycobacterium avium subsp. hominissuis 100,5498713,Clinical(blood),Mycobacterium avium subsp. avium,100,NOT_TYPE,NORMAL,CONTIG
+6848,GCA_000696755.1,Mycobacterium avium subsp. hominissuis 101,5465242,Clinical(blood),Mycobacterium avium subsp. avium,101,NOT_TYPE,NORMAL,CONTIG
+6856,GCA_000696775.1,Mycobacterium avium subsp. hominissuis 3388,5051896,Clinical(sputum),Mycobacterium avium subsp. avium,3388,NOT_TYPE,NORMAL,CONTIG
+7570,GCA_000758285.1,Mycobacterium avium subsp. avium 2285 (R),5169415,sputum(Host: Homo sapiens),Mycobacterium avium subsp. avium,2285 (R),NOT_TYPE,NORMAL,COMPLETE
+7788,GCA_000770235.1,Mycobacterium avium subsp. avium,5011264,Host: Homo sapiens,Mycobacterium avium subsp. avium,DJO-44271,NOT_TYPE,NORMAL,COMPLETE
+8662,GCA_000829075.1,Mycobacterium avium subsp. hominissuis TH135,5145928,sputa of HIV-negative patients with pulmonary disease,Mycobacterium avium subsp. avium,TH135,NOT_TYPE,NORMAL,COMPLETE
+8866,GCA_000831285.1,Mycobacterium avium subsp. avium 2285 (S),5197664,sputum(Host: Homo sapiens),Mycobacterium avium subsp. avium,2285 (S),NOT_TYPE,NORMAL,COMPLETE
+9308,GCA_000835225.1,Mycobacterium avium subsp. paratuberculosis,4781002,feces,Mycobacterium avium subsp. paratuberculosis,E1,NOT_TYPE,NORMAL,COMPLETE
+9316,GCA_000835265.1,Mycobacterium avium subsp. paratuberculosis,4786065,Feces,Mycobacterium avium subsp. paratuberculosis,E93,NOT_TYPE,NORMAL,COMPLETE
+10677,GCA_000219085.2,Mycobacterium avium subsp. paratuberculosis S397,4813711,Sheep(Suffolk breed of sheep with Johne's disease),Mycobacterium avium subsp. paratuberculosis,S397,NOT_TYPE,NORMAL,CONTIG
+18904,GCA_000504745.1,Mycobacterium avium 05-4293,5156046,Environmental isolate,Mycobacterium avium subsp. avium,05-4293,NOT_TYPE,NORMAL,CONTIG
+18963,GCA_000504785.1,Mycobacterium avium subsp. paratuberculosis 10-4404,4814356,Bos taurus(milk),Mycobacterium avium subsp. paratuberculosis,10-4404,NOT_TYPE,NORMAL,CONTIG
+18978,GCA_000504805.1,Mycobacterium avium 10-5581,5330193,Elephas maximus,Mycobacterium avium subsp. avium,10-5581,NOT_TYPE,NORMAL,CONTIG
+19026,GCA_000504845.1,Mycobacterium avium subsp. paratuberculosis 10-5864,4814969,Bos taurus(feces of a Jersey cow with clinical Joh,Mycobacterium avium subsp. paratuberculosis,10-5864,NOT_TYPE,NORMAL,CONTIG
+19063,GCA_000504945.1,Mycobacterium avium subsp. avium 10-9275,4794583,Buteo jamaicensis,Mycobacterium avium subsp. avium,10-9275,NOT_TYPE,NORMAL,CONTIG
+19124,GCA_000505015.1,Mycobacterium avium subsp. avium 11-4751,4835382,Anas platyrhynchos,Mycobacterium avium subsp. avium,11-4751,NOT_TYPE,NORMAL,CONTIG
+19140,GCA_000504975.1,Mycobacterium avium subsp. silvaticum ATCC 49884,4713173,liver and spleen of wood pigeon,Mycobacterium avium subsp. silvaticum,ATCC 49884,TYPE,NORMAL,CONTIG
+21456,GCA_000330785.1,Mycobacterium avium subsp. paratuberculosis S5,4798157,Jamunapari goat(terminally sick Jamunapari goat),Mycobacterium avium subsp. paratuberculosis,S5,NOT_TYPE,NORMAL,CONTIG
+22691,GCA_000655755.1,Mycobacterium avium XTB13-223,5130253,Clinical(excreted bodily substance),Mycobacterium avium subsp. avium,XTB13-223,NOT_TYPE,NORMAL,SCAFFOLD
+28855,GCA_000500005.1,Mycobacterium avium subsp. hominissuis MAH 27-1,4793926,Dust from vacuum cleaner,Mycobacterium avium subsp. avium,MAH 27-1,NOT_TYPE,NORMAL,CONTIG
+31363,GCA_000523635.1,Mycobacterium sp. MAC_011194_8550,5393830,sputum(Host: Homo sapiens),Mycobacterium avium subsp. avium,MAC_011194_8550,NOT_TYPE,NORMAL,CONTIG
+31368,GCA_000523655.1,Mycobacterium avium MAV_061107_1842,5320946,Clinical(sputum),Mycobacterium avium subsp. avium,MAV_061107_1842,NOT_TYPE,NORMAL,CONTIG
+31380,GCA_000523755.1,Mycobacterium avium MAV_120709_2344,5628496,Clinical(sputum of patients suffering from lung in,Mycobacterium avium subsp. avium,MAV_120709_2344,NOT_TYPE,NORMAL,CONTIG
+31401,GCA_000523975.1,Mycobacterium sp. MAC_080597_8934,5571449,sputum(Host: Homo sapiens),Mycobacterium avium subsp. avium,MAC_080597_8934,NOT_TYPE,NORMAL,CONTIG
+31405,GCA_000523995.1,Mycobacterium avium MAV_120809_2495,5712139,Clinical(bronchoalveolar lavage),Mycobacterium avium subsp. avium,MAV_120809_2495,NOT_TYPE,NORMAL,CONTIG
+49491,GCA_001583545.1,Mycobacterium avium subsp. hominissuis,5158387,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-10091-06,NOT_TYPE,NORMAL,SCAFFOLD
+51931,GCA_001609865.1,Mycobacterium avium subsp. hominissuis,5342011,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-9060-06,NOT_TYPE,NORMAL,SCAFFOLD
+51932,GCA_001609905.1,Mycobacterium avium subsp. hominissuis,5321014,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-8933-06,NOT_TYPE,NORMAL,SCAFFOLD
+51933,GCA_001609895.1,Mycobacterium avium subsp. hominissuis,5284904,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAHP-10058-06,NOT_TYPE,NORMAL,SCAFFOLD
+51934,GCA_001609925.1,Mycobacterium avium subsp. hominissuis,5294119,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-10203-06,NOT_TYPE,NORMAL,SCAFFOLD
+51937,GCA_001609945.1,Mycobacterium avium subsp. hominissuis,5366801,Water,Mycobacterium avium subsp. avium,MAH-E-3044,NOT_TYPE,NORMAL,SCAFFOLD
+51938,GCA_001609975.1,Mycobacterium avium subsp. hominissuis,5283354,Water,Mycobacterium avium subsp. avium,MAH-E-2514,NOT_TYPE,NORMAL,SCAFFOLD
+51939,GCA_001609985.1,Mycobacterium avium subsp. hominissuis,5561846,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-528-08,NOT_TYPE,NORMAL,SCAFFOLD
+51940,GCA_001610005.1,Mycobacterium avium subsp. hominissuis,5714075,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-589-08,NOT_TYPE,NORMAL,SCAFFOLD
+51941,GCA_001610035.1,Mycobacterium avium subsp. hominissuis,5214573,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-772-08,NOT_TYPE,NORMAL,SCAFFOLD
+51943,GCA_001610055.1,Mycobacterium avium subsp. hominissuis,5697130,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-2014-08,NOT_TYPE,NORMAL,SCAFFOLD
+51945,GCA_001610065.1,Mycobacterium avium subsp. hominissuis,5078892,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-709-08,NOT_TYPE,NORMAL,SCAFFOLD
+51947,GCA_001610095.1,Mycobacterium avium subsp. hominissuis,5513600,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,MAH-P-4023-08,NOT_TYPE,NORMAL,SCAFFOLD
+51948,GCA_001610105.1,Mycobacterium avium subsp. hominissuis,5180892,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-3449-08,NOT_TYPE,NORMAL,SCAFFOLD
+51950,GCA_001610135.1,Mycobacterium avium subsp. hominissuis,5114531,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-7673-04,NOT_TYPE,NORMAL,SCAFFOLD
+51951,GCA_001610145.1,Mycobacterium avium subsp. hominissuis,5274796,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAHP-883,NOT_TYPE,NORMAL,CONTIG
+51952,GCA_001610165.1,Mycobacterium avium subsp. hominissuis,5152325,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-11082-03,NOT_TYPE,NORMAL,SCAFFOLD
+51953,GCA_001610185.1,Mycobacterium avium subsp. hominissuis,5203244,Dust,Mycobacterium avium subsp. avium,MAH-E-82-7,NOT_TYPE,NORMAL,CONTIG
+51954,GCA_001610215.1,Mycobacterium avium subsp. hominissuis,5309782,Dust,Mycobacterium avium subsp. avium,MAH-E-83-1,NOT_TYPE,NORMAL,CONTIG
+51955,GCA_001610235.1,Mycobacterium avium subsp. hominissuis,5349007,Dust,Mycobacterium avium subsp. avium,MAH-E-88-1,NOT_TYPE,NORMAL,CONTIG
+51956,GCA_001610245.1,Mycobacterium avium subsp. hominissuis,5090633,Dust,Mycobacterium avium subsp. avium,MAH-E-89-1,NOT_TYPE,NORMAL,CONTIG
+51961,GCA_001610265.1,Mycobacterium avium subsp. hominissuis,5137984,Soil,Mycobacterium avium subsp. avium,MAHE-22-1,NOT_TYPE,NORMAL,CONTIG
+51967,GCA_001610285.1,Mycobacterium avium subsp. hominissuis,5340230,Dust,Mycobacterium avium subsp. avium,MAH-E-57-3,NOT_TYPE,NORMAL,SCAFFOLD
+51973,GCA_001610315.1,Mycobacterium avium subsp. hominissuis,5050135,Dust,Mycobacterium avium subsp. avium,MAH-E-61-1t,NOT_TYPE,NORMAL,CONTIG
+51976,GCA_001610335.1,Mycobacterium avium subsp. hominissuis,5057685,Dust,Mycobacterium avium subsp. avium,MAH-E-61-1y,NOT_TYPE,NORMAL,CONTIG
+51982,GCA_001610355.1,Mycobacterium avium subsp. hominissuis,5145571,Soil,Mycobacterium avium subsp. avium,MAH-E-96-2,NOT_TYPE,NORMAL,CONTIG
+51987,GCA_001610375.1,Mycobacterium avium subsp. hominissuis,5036170,Dust,Mycobacterium avium subsp. avium,MAH-E-63-1,NOT_TYPE,NORMAL,CONTIG
+51992,GCA_001610395.1,Mycobacterium avium subsp. hominissuis,5177134,Soil,Mycobacterium avium subsp. avium,MAH-E-104-1,NOT_TYPE,NORMAL,CONTIG
+51998,GCA_001610405.1,Mycobacterium avium subsp. hominissuis,5120580,Dust,Mycobacterium avium subsp. avium,MAH-E-101-6,NOT_TYPE,NORMAL,CONTIG
+52008,GCA_001610435.1,Mycobacterium avium subsp. hominissuis,5472951,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAH-P-0913,NOT_TYPE,NORMAL,SCAFFOLD
+52022,GCA_001610445.1,Mycobacterium avium subsp. hominissuis,5399119,Soil,Mycobacterium avium subsp. avium,MAH-E-149-3,NOT_TYPE,NORMAL,SCAFFOLD
+52037,GCA_001610465.1,Mycobacterium avium subsp. hominissuis,5221056,Soil,Mycobacterium avium subsp. avium,MAH-E-149-7,NOT_TYPE,NORMAL,SCAFFOLD
+52052,GCA_001610475.1,Mycobacterium avium subsp. hominissuis,5934301,Host: Homo sapiens,Mycobacterium avium subsp. avium,MAHP-04-13,NOT_TYPE,NORMAL,SCAFFOLD
+52084,GCA_001610525.1,Mycobacterium avium subsp. hominissuis,5122703,Dust,Mycobacterium avium subsp. avium,MAH-E-108,NOT_TYPE,NORMAL,CONTIG
+52091,GCA_001610545.1,Mycobacterium avium subsp. hominissuis,5111701,Soil,Mycobacterium avium subsp. silvaticum,MAH-E-106,NOT_TYPE,NORMAL,CONTIG
+52097,GCA_001610565.1,Mycobacterium avium subsp. hominissuis,5271935,Soil,Mycobacterium avium subsp. avium,MAH-E-149-2,NOT_TYPE,NORMAL,CONTIG
+73345,GCA_900079425.1,Mycobacterium avium subsp. hominissuis,5108242,human,Mycobacterium avium subsp. silvaticum,12_067,NOT_TYPE,NORMAL,SCAFFOLD
+73412,GCA_900079485.1,Mycobacterium avium subsp. hominissuis,5094574,human,Mycobacterium avium subsp. avium,12_062,NOT_TYPE,NORMAL,SCAFFOLD
+73481,GCA_900079545.1,Mycobacterium avium subsp. hominissuis,5307771,pig,Mycobacterium avium subsp. avium,LYM086,NOT_TYPE,NORMAL,SCAFFOLD
+73622,GCA_900079575.1,Mycobacterium avium subsp. hominissuis,5092537,pig,Mycobacterium avium subsp. avium,LYM122,NOT_TYPE,NORMAL,SCAFFOLD
+73630,GCA_001683455.1,Mycobacterium avium,4953610,farm(Host: duck),Mycobacterium avium subsp. avium,RCAD0278,NOT_TYPE,NORMAL,COMPLETE
+74372,GCA_001653355.1,Mycobacterium avium subsp. paratuberculosis,4829781,"Bos taurus(Host: ""Bos taurus"")",Mycobacterium avium subsp. paratuberculosis,MAP/TANUVAS/TN/India/2008,NOT_TYPE,NORMAL,COMPLETE
+76630,GCA_001936215.1,Mycobacterium avium subsp. hominissuis,5626623,water sample,Mycobacterium avium subsp. avium,H87,NOT_TYPE,NORMAL,COMPLETE
+78383,GCA_001855355.1,Mycobacterium avium subsp. paratuberculosis,4777365,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 89C,NOT_TYPE,NORMAL,CONTIG
+78384,GCA_001855365.1,Mycobacterium avium subsp. paratuberculosis,4768495,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 93B,NOT_TYPE,NORMAL,CONTIG
+78396,GCA_001855435.1,Mycobacterium avium subsp. paratuberculosis,4776830,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 95A,NOT_TYPE,NORMAL,CONTIG
+78406,GCA_001855445.1,Mycobacterium avium subsp. paratuberculosis,4772864,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 95B,NOT_TYPE,NORMAL,CONTIG
+78407,GCA_001855455.1,Mycobacterium avium subsp. paratuberculosis,4774273,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 95E,NOT_TYPE,NORMAL,CONTIG
+81368,GCA_001956335.1,Mycobacterium avium subsp. hominissuis,5210894,soil,Mycobacterium avium subsp. avium,E-128,NOT_TYPE,NORMAL,CONTIG
+87260,GCA_001855375.1,Mycobacterium avium subsp. paratuberculosis,4771797,dairy animals with Johne's disease,Mycobacterium avium subsp. paratuberculosis,NL 96E,NOT_TYPE,NORMAL,CONTIG
+89138,GCA_001904595.1,Mycobacterium avium subsp. paratuberculosis,4727050,rectal feces(Host: dairy cattle),Mycobacterium avium subsp. paratuberculosis,2015WD-2,NOT_TYPE,NORMAL,SCAFFOLD
+94709,GCA_002086165.1,Mycobacterium bouchedurhonense,5897311,Unknown,Mycobacterium avium subsp. avium,DSM 45439 (incorrect strain),NOT_TYPE,NORMAL,CONTIG
+96208,GCA_002089135.1,Mycobacterium avium subsp. hominissuis,4981469,Host: Homo sapiens,Mycobacterium avium subsp. avium,DH-2,NOT_TYPE,NORMAL,CONTIG
+96219,GCA_002089155.1,Mycobacterium avium subsp. hominissuis,5449121,Host: Homo sapiens,Mycobacterium avium subsp. avium,DH-5,NOT_TYPE,NORMAL,CONTIG
+96223,GCA_002089175.1,Mycobacterium avium subsp. hominissuis,5895354,Host: Homo sapiens,Mycobacterium avium subsp. avium,DH-6,NOT_TYPE,NORMAL,CONTIG
+96234,GCA_002089195.1,Mycobacterium avium subsp. hominissuis,5076722,Host: Homo sapiens,Mycobacterium avium subsp. avium,DH-7,NOT_TYPE,NORMAL,CONTIG
+96236,GCA_002089215.1,Mycobacterium avium subsp. hominissuis,5129780,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,DH-8-4,NOT_TYPE,NORMAL,CONTIG
+96247,GCA_002089235.1,Mycobacterium avium subsp. hominissuis,5251565,Host: Homo sapiens,Mycobacterium avium subsp. avium,HF-1,NOT_TYPE,NORMAL,CONTIG
+96248,GCA_002089255.1,Mycobacterium avium subsp. hominissuis,5258000,Host: Homo sapiens,Mycobacterium avium subsp. avium,HF-3,NOT_TYPE,NORMAL,CONTIG
+96257,GCA_002089275.1,Mycobacterium avium subsp. hominissuis,5221809,Host: Homo sapiens,Mycobacterium avium subsp. avium,HF-4,NOT_TYPE,NORMAL,CONTIG
+96258,GCA_002089295.1,Mycobacterium avium subsp. hominissuis,5121915,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-065,NOT_TYPE,NORMAL,CONTIG
+96265,GCA_002089315.1,Mycobacterium avium subsp. hominissuis,5214580,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,IH-068,NOT_TYPE,NORMAL,CONTIG
+96266,GCA_002089335.1,Mycobacterium avium subsp. hominissuis,5217578,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-145,NOT_TYPE,NORMAL,CONTIG
+96272,GCA_002089355.1,Mycobacterium avium subsp. hominissuis,5211422,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-149,NOT_TYPE,NORMAL,CONTIG
+96273,GCA_002089375.1,Mycobacterium avium subsp. hominissuis,5330540,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-217,NOT_TYPE,NORMAL,CONTIG
+96279,GCA_002089395.1,Mycobacterium avium subsp. hominissuis,5752685,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-483,NOT_TYPE,NORMAL,CONTIG
+96280,GCA_002089415.1,Mycobacterium avium subsp. hominissuis,5439676,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-532,NOT_TYPE,NORMAL,CONTIG
+96285,GCA_002089435.1,Mycobacterium avium subsp. hominissuis,5192099,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-550,NOT_TYPE,NORMAL,CONTIG
+96287,GCA_002089455.1,Mycobacterium avium subsp. hominissuis,5384255,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-560,NOT_TYPE,NORMAL,CONTIG
+96291,GCA_002089475.1,Mycobacterium avium subsp. hominissuis,5358590,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,IH-660,NOT_TYPE,NORMAL,CONTIG
+96295,GCA_002089495.1,Mycobacterium avium subsp. hominissuis,5089743,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-687,NOT_TYPE,NORMAL,CONTIG
+96303,GCA_002089535.1,Mycobacterium avium subsp. hominissuis,5106249,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-799,NOT_TYPE,NORMAL,CONTIG
+96311,GCA_002089555.1,Mycobacterium avium subsp. hominissuis,5335072,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-801,NOT_TYPE,NORMAL,CONTIG
+96314,GCA_002089575.1,Mycobacterium avium subsp. hominissuis,5089718,Host: Homo sapiens,Mycobacterium avium subsp. avium,IH-945,NOT_TYPE,NORMAL,CONTIG
+96324,GCA_002089595.1,Mycobacterium avium subsp. hominissuis,5216878,Host: Homo sapiens,Mycobacterium avium subsp. avium,Kin-16,NOT_TYPE,NORMAL,CONTIG
+96325,GCA_002089615.1,Mycobacterium avium subsp. hominissuis,5126590,Host: Homo sapiens,Mycobacterium avium subsp. avium,Kin-27,NOT_TYPE,NORMAL,CONTIG
+96335,GCA_002089635.1,Mycobacterium avium subsp. hominissuis,5389591,Host: Homo sapiens,Mycobacterium avium subsp. avium,Kin-28,NOT_TYPE,NORMAL,CONTIG
+96336,GCA_002089655.1,Mycobacterium avium subsp. hominissuis,5452988,Host: Homo sapiens,Mycobacterium avium subsp. avium,MK20-1,NOT_TYPE,NORMAL,CONTIG
+96346,GCA_002089675.1,Mycobacterium avium subsp. hominissuis,5340288,Host: Homo sapiens,Mycobacterium avium subsp. avium,MK20-5,NOT_TYPE,NORMAL,CONTIG
+96347,GCA_002089695.1,Mycobacterium avium subsp. hominissuis,5482429,Host: Homo sapiens,Mycobacterium avium subsp. avium,NB-36042,NOT_TYPE,NORMAL,CONTIG
+96357,GCA_002089715.1,Mycobacterium avium subsp. hominissuis,5249919,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,NN-108,NOT_TYPE,NORMAL,CONTIG
+96358,GCA_002089735.1,Mycobacterium avium subsp. hominissuis,5751252,Host: Homo sapiens,Mycobacterium avium subsp. avium,NN-122,NOT_TYPE,NORMAL,CONTIG
+96368,GCA_002089755.1,Mycobacterium avium subsp. hominissuis,5208636,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,NN-127,NOT_TYPE,NORMAL,CONTIG
+96369,GCA_002089775.1,Mycobacterium avium subsp. hominissuis,5442059,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-1,NOT_TYPE,NORMAL,CONTIG
+96382,GCA_002089795.1,Mycobacterium avium subsp. hominissuis,5514993,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-2,NOT_TYPE,NORMAL,CONTIG
+96383,GCA_002089815.1,Mycobacterium avium subsp. hominissuis,5279502,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-3,NOT_TYPE,NORMAL,CONTIG
+96394,GCA_002089835.1,Mycobacterium avium subsp. hominissuis,5588265,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-4,NOT_TYPE,NORMAL,CONTIG
+96396,GCA_002089855.1,Mycobacterium avium subsp. hominissuis,5263728,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-5,NOT_TYPE,NORMAL,CONTIG
+96410,GCA_002089875.1,Mycobacterium avium subsp. hominissuis,5155951,Host: Homo sapiens,Mycobacterium avium subsp. avium,TR-M-6-4,NOT_TYPE,NORMAL,CONTIG
+96411,GCA_002089895.1,Mycobacterium avium subsp. hominissuis,5398474,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-12,NOT_TYPE,NORMAL,CONTIG
+96423,GCA_002089915.1,Mycobacterium avium subsp. hominissuis,5741908,Host: Homo sapiens,Mycobacterium avium subsp. silvaticum,Tone-13,NOT_TYPE,NORMAL,CONTIG
+96426,GCA_002089935.1,Mycobacterium avium subsp. hominissuis,5497861,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-15,NOT_TYPE,NORMAL,CONTIG
+96438,GCA_002089955.1,Mycobacterium avium subsp. hominissuis,5354245,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-16,NOT_TYPE,NORMAL,CONTIG
+96439,GCA_002089975.1,Mycobacterium avium subsp. hominissuis,5659277,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-1,NOT_TYPE,NORMAL,CONTIG
+96452,GCA_002089995.1,Mycobacterium avium subsp. hominissuis,5232109,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-5,NOT_TYPE,NORMAL,CONTIG
+96454,GCA_002090015.1,Mycobacterium avium subsp. hominissuis,5811642,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-6,NOT_TYPE,NORMAL,CONTIG
+96462,GCA_002174295.1,Mycobacterium avium subsp. paratuberculosis,4851414,Host: Capra aegagrus,Mycobacterium avium subsp. paratuberculosis,C4A4,NOT_TYPE,NORMAL,CONTIG
+96464,GCA_002090035.1,Mycobacterium avium subsp. hominissuis,5463470,Host: Homo sapiens,Mycobacterium avium subsp. avium,Tone-7,NOT_TYPE,NORMAL,CONTIG
+96472,GCA_002180005.1,Mycobacterium avium subsp. paratuberculosis,4847731,Host: Bos taurus,Mycobacterium avium subsp. paratuberculosis,A3,NOT_TYPE,NORMAL,CONTIG
+100755,GCA_002211525.1,Mycobacterium avium subsp. paratuberculosis,4829728,ileocaecal lymph node(host:dairy cattle),Mycobacterium avium subsp. paratuberculosis,JII-1961,NOT_TYPE,NORMAL,CHROMOSOME
+101503,GCA_002201735.1,Mycobacterium avium subsp. hominissuis,5448889,bone marrow(host:Homo sapiens),Mycobacterium avium subsp. avium,11,NOT_TYPE,NORMAL,CONTIG
+104229,GCA_002232005.1,Mycobacterium avium subsp. paratuberculosis,4850274,ileal mucosa(host:sheep (Ovis)),Mycobacterium avium subsp. paratuberculosis,JIII-386,NOT_TYPE,NORMAL,SCAFFOLD
+106349,GCA_002291465.1,Mycobacterium lepraemurium,4050523,Balb/c mice spleen and liver(host:Rattus sp.),Mycobacterium avium subsp. silvaticum,Hawaii,NOT_TYPE,NORMAL,COMPLETE
+106456,GCA_002292425.1,Mycobacterium avium,5409790,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0346,NOT_TYPE,NORMAL,CONTIG
+106457,GCA_002292435.1,Mycobacterium avium,5605011,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0256,NOT_TYPE,NORMAL,CONTIG
+106458,GCA_002292445.1,Mycobacterium avium,5219426,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0351,NOT_TYPE,NORMAL,CONTIG
+106459,GCA_002292475.1,Mycobacterium avium,5215748,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0216,NOT_TYPE,NORMAL,CONTIG
+106460,GCA_002292505.1,Mycobacterium avium,5247172,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0161,NOT_TYPE,NORMAL,CONTIG
+106461,GCA_002292545.1,Mycobacterium avium,5891371,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0165,NOT_TYPE,NORMAL,CONTIG
+106462,GCA_002292595.1,Mycobacterium avium,5179834,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0146,NOT_TYPE,NORMAL,CONTIG
+106463,GCA_002292585.1,Mycobacterium avium,5518049,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0155,NOT_TYPE,NORMAL,CONTIG
+106464,GCA_002292635.1,Mycobacterium avium,5265231,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0117,NOT_TYPE,NORMAL,CONTIG
+106465,GCA_002292655.1,Mycobacterium avium,5357109,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0059,NOT_TYPE,NORMAL,CONTIG
+106466,GCA_002292705.1,Mycobacterium avium,5335175,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0371,NOT_TYPE,NORMAL,CONTIG
+106467,GCA_002292725.1,Mycobacterium avium,5410350,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0260,NOT_TYPE,NORMAL,CONTIG
+106468,GCA_002292735.1,Mycobacterium avium,5347184,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0257,NOT_TYPE,NORMAL,CONTIG
+106469,GCA_002292745.1,Mycobacterium avium,5614569,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0376,NOT_TYPE,NORMAL,CONTIG
+106470,GCA_002292785.1,Mycobacterium avium,5213473,unknown(host:Homo sapiens),Mycobacterium avium subsp. avium,FLAC0130,NOT_TYPE,NORMAL,CONTIG
+106505,GCA_002300575.1,Mycobacterium avium subsp. hominissuis,5266633,sputum(host:Homo sapiens),Mycobacterium avium subsp. silvaticum,OCU404,NOT_TYPE,NORMAL,CONTIG
+106680,GCA_002304075.1,Mycobacterium avium subsp. hominissuis,5248692,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,CAM57,NOT_TYPE,NORMAL,SCAFFOLD
+106682,GCA_002304125.1,Mycobacterium avium subsp. hominissuis,5121042,Lynpe node(host:pig),Mycobacterium avium subsp. avium,OCU556,NOT_TYPE,NORMAL,SCAFFOLD
+107708,GCA_002304055.1,Mycobacterium avium subsp. hominissuis,5058528,sputum(host:Homo sapiens),Mycobacterium avium subsp. silvaticum,CAM78,NOT_TYPE,NORMAL,SCAFFOLD
+107709,GCA_002304065.1,Mycobacterium avium subsp. hominissuis,5289482,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,CAM177,NOT_TYPE,NORMAL,SCAFFOLD
+107710,GCA_002304145.1,Mycobacterium avium subsp. hominissuis,4990846,lymph node(host:pig),Mycobacterium avium subsp. avium,OCU491,NOT_TYPE,NORMAL,SCAFFOLD
+107712,GCA_002304155.1,Mycobacterium avium subsp. hominissuis,5635307,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,OCU466,NOT_TYPE,NORMAL,SCAFFOLD
+112263,GCA_002086775.1,Mycobacterium timonense,6009989,Unknown,Mycobacterium avium subsp. avium,CCUG 56329  (incorrect strain),NOT_TYPE,NORMAL,CONTIG
+116645,GCA_002089515.1,Mycobacterium avium subsp. hominissuis,5397364,(host:Homo sapiens),Mycobacterium avium subsp. avium,IH-788,NOT_TYPE,NORMAL,CONTIG
+117128,GCA_002208705.2,Mycobacterium avium subsp. paratuberculosis,4832477,feces(host:Bovine (dairy herd)),Mycobacterium avium subsp. paratuberculosis,FDAARGOS_305,REFERENCE,NORMAL,COMPLETE
+128244,GCA_002894345.1,Mycobacterium avium subsp. hominissuis,5544128,lymphnode(host:Homo sapiens),Mycobacterium avium subsp. avium,MAH-P-3269-08,NOT_TYPE,NORMAL,SCAFFOLD
+128245,GCA_002894715.1,Mycobacterium avium subsp. hominissuis,5221801,soil,Mycobacterium avium subsp. silvaticum,MAH-E-14-1,NOT_TYPE,NORMAL,SCAFFOLD
+128247,GCA_002894725.1,Mycobacterium avium subsp. hominissuis,5105678,lymph node(host:Homo sapiens),Mycobacterium avium subsp. avium,MAH-P-1620-04,NOT_TYPE,NORMAL,SCAFFOLD
+128933,GCA_002928225.1,Mycobacterium avium subsp. hominissuis,5147757,lymph node(host:Homo sapiens),Mycobacterium avium subsp. silvaticum,MAH-P-9036/04,NOT_TYPE,NORMAL,SCAFFOLD
+128934,GCA_002928255.1,Mycobacterium avium subsp. hominissuis,5562260,lymph node(host:Homo sapiens),Mycobacterium avium subsp. avium,MAH-P-4557/08,NOT_TYPE,NORMAL,SCAFFOLD
+128935,GCA_002928265.1,Mycobacterium avium subsp. hominissuis,5363248,lung(host:Homo sapiens),Mycobacterium avium subsp. avium,MAH-P-9268/06,NOT_TYPE,NORMAL,SCAFFOLD
+132256,GCA_003013375.1,Mycobacterium avium subsp. hominissuis,5445539,lymph node(host:Homo sapiens),Mycobacterium avium subsp. avium,MAH-P-2630-08,NOT_TYPE,NORMAL,SCAFFOLD
+136636,GCA_003122745.1,Mycobacterium avium subsp. hominissuis,5370827,unknown(host:Homo sapiens),Mycobacterium avium subsp. silvaticum,aviumMD30,NOT_TYPE,NORMAL,CONTIG
+146458,GCA_003408535.1,Mycobacterium avium subsp. hominissuis,5352499,blood(host:Homo sapiens),Mycobacterium avium subsp. avium,MAC109,NOT_TYPE,NORMAL,COMPLETE
+170706,GCA_003640565.1,Mycobacterium avium,4961843,(host:Bovine),Mycobacterium avium subsp. avium,HJW,NOT_TYPE,NORMAL,COMPLETE
+173257,GCA_003713025.1,Mycobacterium avium subsp. paratuberculosis,4837149,(host:Bos taurus),Mycobacterium avium subsp. paratuberculosis,MAPK_CN7/15,NOT_TYPE,NORMAL,COMPLETE
+173258,GCA_003713045.1,Mycobacterium avium subsp. paratuberculosis,4831261,feces(host:Bos taurus),Mycobacterium avium subsp. paratuberculosis,MAPK_CN9/15,NOT_TYPE,NORMAL,COMPLETE
+177249,GCA_003815795.1,Mycobacterium avium subsp. paratuberculosis,4836546,(host:bovine),Mycobacterium avium subsp. paratuberculosis,MAPK_CN4/13,NOT_TYPE,NORMAL,COMPLETE
+177250,GCA_003815815.1,Mycobacterium avium subsp. paratuberculosis,4838766,(host:bovine),Mycobacterium avium subsp. paratuberculosis,MAPK_JB16/15,NOT_TYPE,NORMAL,COMPLETE
+177261,GCA_003816035.1,Mycobacterium avium subsp. paratuberculosis,4838649,(host:bovine),Mycobacterium avium subsp. paratuberculosis,MAPK_JJ1/13,NOT_TYPE,NORMAL,COMPLETE
+197999,GCA_004345205.1,Mycobacterium avium subsp. hominissuis,5499921,"pulmonary, AIDS(host:Homo sapiens)",Mycobacterium avium subsp. silvaticum,mc2 2500,NOT_TYPE,NORMAL,COMPLETE
+205991,GCA_003957335.1,Mycobacterium avium subsp. paratuberculosis,4907428,sheep faeces(host:Ovis aries),Mycobacterium avium subsp. paratuberculosis,Telford,NOT_TYPE,NORMAL,COMPLETE
+214357,GCA_005518015.1,Mycobacterium avium subsp. hominissuis,5167741,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,101174,NOT_TYPE,NORMAL,COMPLETE
+214359,GCA_005518035.1,Mycobacterium avium subsp. hominissuis,5368111,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,101034,NOT_TYPE,NORMAL,COMPLETE
+214361,GCA_005518055.1,Mycobacterium avium subsp. hominissuis,5393712,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,101115,NOT_TYPE,NORMAL,COMPLETE
+221901,GCA_002716905.2,Mycobacterium avium subsp. hominissuis,5100690,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,HP17,NOT_TYPE,NORMAL,COMPLETE
+221949,GCA_002716925.2,Mycobacterium avium subsp. hominissuis,5186801,sputum(host:Homo sapiens),Mycobacterium avium subsp. silvaticum,OCU901s_S2_2s,NOT_TYPE,NORMAL,COMPLETE
+221951,GCA_002716965.2,Mycobacterium avium subsp. hominissuis,5027323,sputum(host:Homo sapiens),Mycobacterium avium subsp. avium,OCU873s_P7_4s,NOT_TYPE,NORMAL,COMPLETE
+238574,GCA_001865635.3,Mycobacterium avium subsp. hominissuis,5275018,sputum,Mycobacterium avium subsp. silvaticum,OCU464,NOT_TYPE,NORMAL,COMPLETE
+245426,GCA_009002535.1,Mycobacterium avium subsp. hominissuis,5735250,\N,Mycobacterium avium subsp. silvaticum,JP-H-1,NOT_TYPE,NORMAL,COMPLETE
+253386,GCA_009741445.1,Mycobacterium avium subsp. avium,4956929,(host:Gallus gallus),Mycobacterium avium subsp. avium,DSM 44156,TYPE,NORMAL,COMPLETE
+3996,GCA_000240525.1,Mycobacterium avium subsp. paratuberculosis ATCC 19698,4736327,Cow(feces),Mycobacterium avium subsp. paratuberculosis,ATCC 19698,TYPE,LOW_QUALITY,CONTIG
